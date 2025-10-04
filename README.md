@@ -13,5 +13,6 @@
     * Celery (RabbitMQ, Kafka)
     * HTML/CSS/JS (React, Vue)
     
-<img src="<a href="https://www.flaticon.com/br/icones-gratis/aviso-previo" title="aviso prévio ícones">Aviso prévio ícones criados por Ilham Fitrotul Hayat - Flaticon</a>">
+<img src="assets/aviso.png">
 ``Icone feito por Ilham Fitrotul retirado do Flaticon``
+<a href="https://www.flaticon.com/br/icones-gratis/aviso-previo" title="aviso prévio ícones">Aviso prévio ícones criados por Ilham Fitrotul Hayat - Flaticon</a>"
